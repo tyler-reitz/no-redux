@@ -1,0 +1,22 @@
+{
+  "name": "no-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "neutrino start --use neutrino-preset-react"
+  },
+  "keywords": [],
+  "author": "Tyler Reitz <tdreitz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.0",
+    "eslint-plugin-react": "^7.1.0",
+    "neutrino": "^6.2.0",
+    "neutrino-preset-react": "^6.2.0"
+  }
+}
